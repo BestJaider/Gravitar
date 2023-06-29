@@ -1,0 +1,27 @@
+
+.row {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+  #imagenjuego{
+    display: flex;
+    width: 100%;
+  }
+
+  .titulos{
+    color: #1393EA;
+  }
+  
+  .obj{
+    white-space: pre-line;
+  }
+
+  .cs{
+    margin-top: -44px;
+  }
+
+  .colo{
+    background-color: #1393EA;
+  }
+  
